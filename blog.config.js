@@ -1,5 +1,5 @@
 const BLOG = {
-  title: 'Monsoir',
+  title: 'Dev @Monsoir',
   author: 'Monsoir',
   email: 'raeyeung.mon@gmail.com',
   link: 'https://nobelium.vercel.app',
@@ -18,7 +18,7 @@ const BLOG = {
   showArchive: true,
   autoCollapsedNavBar: false, // The automatically collapsed navigation bar
   ogImageGenerateURL: '', // The link to generate OG image, don't end with a slash
-  socialLink: '',
+  socialLink: 'https://github.com/monsoir',
   seo: {
     keywords: ['Blog', 'Website', 'Notion'],
     googleSiteVerification: '' // Remove the value or replace it with your own google site verification code
